@@ -1,11 +1,4 @@
 ### Hi there. It's Kobamiyannnn 👋
-
----
-💻 I’m currently learning ...
-* Python
-* Java
-* Deep Learning
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobamiyannnn&layout=compact&theme=tokyonight
 )](https://github.com/anuraghazra/github-readme-stats)
 
