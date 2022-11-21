@@ -2,6 +2,8 @@
 
 ![github-readme-stats](https://github-readme-stats-clone-72sb.vercel.app/api/?username=Kobamiyannnn)
 
+![github-readme-stats](https://github-readme-stats-clone-72sb.vercel.app/api/top-langs/?username=Kobamiyannnn)
+
 <!--
 **Kobamiyannnn/Kobamiyannnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
