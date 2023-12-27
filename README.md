@@ -1,7 +1,4 @@
 ### Hi there. It's Kobamiyannnn 👋
-<a>
-  <img height="170" align="left" src="https://github-readme-stats-clone-7ygl.vercel.app/api?username=Kobamiyannnn&show_icons=true&exclude_repo=github-readme-stats-clone&include_all_commits=true&count_private=true&hide_border=true" alt="Kobamiyannnn's github stats"/>
-</a>
-<a>
-  <img height="170" align="left" src="https://github-readme-stats-clone-7ygl.vercel.app/api/top-langs/?username=Kobamiyannnn&exclude_repo=github-readme-stats-clone,dotfiles&hide=Gnuplot,Makefile&langs_count=6&layout=compact&hide_border=true"/>
-</a>
+[![Kobamiyannnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kobamiyannnn&card_width=400px&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kobamiyannnn&layout=compact&card_width=400px&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
