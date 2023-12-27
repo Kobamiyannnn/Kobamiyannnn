@@ -1,7 +1,3 @@
 ### Hi there. It's Kobamiyannnn 👋
-<a>
-  <img height="170" align="left" src="https://github-readme-stats-clone-7ygl.vercel.app/api?username=Kobamiyannnn&show_icons=true&exclude_repo=github-readme-stats-clone&include_all_commits=true&count_private=true&hide_border=true" alt="Kobamiyannnn's github stats"/>
-</a>
-<a>
-  <img height="170" align="left" src="https://github-readme-stats-clone-7ygl.vercel.app/api/top-langs/?username=Kobamiyannnn&exclude_repo=github-readme-stats-clone,dotfiles&hide=Gnuplot,Makefile&langs_count=6&layout=compact&hide_border=true"/>
-</a>
+[![Kobamiyannnn's GitHub stats](https://forked-github-readme-stats-eight.vercel.app/api?username=Kobamiyannnn&theme=transparent&hide_border=true&card_width=400px&show_icons=true&include_all_commits=true)](https://github.com/Kobamiyannnn/forked-github-readme-stats)
+[![Top Langs](https://forked-github-readme-stats-eight.vercel.app/api/top-langs/?username=Kobamiyannnn&theme=transparent&layout=compact&hide_border=true&card_width=400px&hide=Jupyter%20Notebook&exclude_repo=mmdetection,dotfiles)](https://github.com/Kobamiyannnn/forked-github-readme-stats)
